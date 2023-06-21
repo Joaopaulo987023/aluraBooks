@@ -44,3 +44,11 @@ hr{
         
     }
 }
+@media screen and (min-width:1728px){
+    .lista_rodape{
+        border-left: 1px solid var(--cinza);
+    }
+    .rodape_titulo{
+        margin-left:7em;    
+    }
+}
